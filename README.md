@@ -1,5 +1,19 @@
 # Artificial Wisdom Guardrail Protocol
 
+---
+
+> ## 🌐 Language Bridge Notice / 言語の架け橋について
+>
+> **[English]**
+> The author of this project speaks Japanese only. All discussions, test reports, and issues submitted here are automatically translated and summarized by AI (LLM) so the author can understand them. **You are welcome to write in your own language** — English, Spanish, French, German, Chinese, Korean, or any other. AI bridges the language barrier. Please open a Discussion or Issue and share freely. Your guardrail test results, prompt improvement ideas, and failure reports are especially welcome.
+>
+> **[日本語]**
+> このプロジェクトの著者は日本語のみを話す構想者です。このリポジトリへのすべての議論・テスト報告・Issueは、AI（LLM）が自動的に翻訳・要約して著者に伝えます。国内外を問わず、**誰もが自国の言語で自由にスレッドに書き込んでください。** AIが言語の壁を仲介します。ガードレールのテスト結果・改善提案・失敗事例報告を特に歓迎します。
+>
+> 💬 [GitHub Discussions](../../discussions) | 🐛 [Issues](../../issues)
+
+---
+
 [日本語版 README_ja.md](README_ja.md)
 
 **Artificial Wisdom Guardrail Protocol** is a public framework for applying Artificial Wisdom as a higher-order guardrail for AI agents, code generation, automation, decision-support systems, and long-term civilization-safe design.

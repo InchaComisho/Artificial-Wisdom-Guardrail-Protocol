@@ -1,5 +1,19 @@
 # 人工叡智ガードレール・プロトコル
 
+---
+
+> ## 🌐 言語の架け橋について / Language Bridge Notice
+>
+> **[日本語]**
+> このプロジェクトの著者は日本語のみを話す構想者です。このリポジトリへのすべての議論・テスト報告・Issueは、AI（LLM）が自動的に翻訳・要約して著者に伝えます。国内外を問わず、**誰もが自国の言語で自由にスレッドに書き込んでください。** AIが言語の壁を仲介します。ガードレールのテスト結果・改善提案・失敗事例の報告を特に歓迎します。
+>
+> **[English]**
+> The author speaks Japanese only. All discussions, test reports, and issues are automatically translated and summarized by AI (LLM) so the author can understand them. **Write in your own language** — AI bridges the gap. Guardrail test results, prompt improvement ideas, and failure reports are especially welcome.
+>
+> 💬 [GitHub Discussions](../../discussions) | 🐛 [Issues](../../issues)
+
+---
+
 [English README](README.md)
 
 **人工叡智ガードレール・プロトコル**は、AIエージェント、コード生成、自動化、意思決定支援、長期的な文明安全設計に対して、人工叡智を上位の安全原則として適用するための公開フレームワークです。
