@@ -155,6 +155,14 @@ Suggested public testing categories:
 
 ---
 
+## Public Discussion
+
+Join the public testing and improvement discussion here:
+
+[Welcome: Testing the Artificial Wisdom Guardrail Protocol](https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol/discussions/1)
+
+---
+
 ## Repository Structure
 
 ```text
