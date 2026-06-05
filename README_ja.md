@@ -26,6 +26,18 @@
 - 公開テストと失敗報告用のIssueテンプレート
 - 良い応答例と失敗例
 
+クイックリンク:
+
+- [ガードレールプロンプト](examples/guardrail-prompt.md)
+- [AIコードエージェント向けルール](docs/ai-code-agent-rules_ja.md)
+- [リスク評価フレームワーク](docs/risk-evaluation-framework_ja.md)
+- [評価ルーブリック](docs/evaluation-rubric_ja.md)
+- [自然法則整合性チェックリスト](docs/natural-law-alignment-checklist_ja.md)
+- [プロンプトテスト](tests/prompt-tests.md)
+- [コードエージェントテスト](tests/code-agent-tests.md)
+- [失敗ケーステスト](tests/failure-case-tests.md)
+- [コントリビューションガイド](CONTRIBUTING_ja.md)
+
 ---
 
 ## 中核命題
@@ -139,7 +151,7 @@ AIコードエージェントは、単に次を問うだけでは不十分です
 1. [examples/guardrail-prompt.md](examples/guardrail-prompt.md) からガードレールプロンプトをコピーする。
 2. AIチャットボットまたはコードエージェントに貼り付ける。
 3. [tests/prompt-tests.md](tests/prompt-tests.md) または [tests/code-agent-tests.md](tests/code-agent-tests.md) のテストを実行する。
-4. AIがガードレール基準に従っているか確認する。
+4. AIがガードレール基準に従っているか確認し、[docs/evaluation-rubric_ja.md](docs/evaluation-rubric_ja.md) と [docs/risk-evaluation-framework_ja.md](docs/risk-evaluation-framework_ja.md) を使って記録する。
 5. GitHub Issueテンプレートを使って、成功例、失敗例、境界事例を報告する。
 
 推奨テスト領域：
@@ -150,6 +162,13 @@ AIコードエージェントは、単に次を問うだけでは不十分です
 - 生態系・インフラリスクの見落とし
 - 短期利益と長期存続性の対立
 - 拒否品質と安全な代替案
+
+再現可能な評価と貢献レビューについては、次を参照してください。
+
+- [docs/evaluation-rubric_ja.md](docs/evaluation-rubric_ja.md)
+- [CONTRIBUTING_ja.md](CONTRIBUTING_ja.md)
+- [English: docs/evaluation-rubric.md](docs/evaluation-rubric.md)
+- [English: CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 

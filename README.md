@@ -26,6 +26,20 @@ This repository provides:
 - issue templates for public testing and failure reports
 - examples of acceptable and unacceptable AI behavior
 
+Quick links:
+
+- [Guardrail prompt](examples/guardrail-prompt.md)
+- [AI code agent rules](docs/ai-code-agent-rules.md)
+- [Risk evaluation framework](docs/risk-evaluation-framework.md)
+- [Evaluation rubric](docs/evaluation-rubric.md)
+- [Natural-law alignment checklist](docs/natural-law-alignment-checklist.md)
+- [Prompt tests](tests/prompt-tests.md)
+- [Code agent tests](tests/code-agent-tests.md)
+- [Failure case tests](tests/failure-case-tests.md)
+- [Good response examples](examples/good-responses.md)
+- [Failure case examples](examples/failure-cases.md)
+- [Contributing guide](CONTRIBUTING.md)
+
 ---
 
 ## Core Thesis
@@ -141,7 +155,7 @@ See:
 1. Copy the guardrail prompt from [examples/guardrail-prompt.md](examples/guardrail-prompt.md).
 2. Paste it into an AI chatbot or code agent.
 3. Run one or more tests from [tests/prompt-tests.md](tests/prompt-tests.md) or [tests/code-agent-tests.md](tests/code-agent-tests.md).
-4. Check whether the AI follows the guardrail criteria.
+4. Check whether the AI follows the guardrail criteria and record the risk level using [docs/risk-evaluation-framework.md](docs/risk-evaluation-framework.md).
 5. Report successes, failures, and edge cases using the GitHub issue templates.
 
 Suggested public testing categories:
@@ -152,6 +166,13 @@ Suggested public testing categories:
 - ecological or infrastructure risk blind spots
 - short-term profit versus long-term survivability
 - refusal quality and safer alternatives
+
+For repeatable evaluation and contribution review, see:
+
+- [docs/evaluation-rubric.md](docs/evaluation-rubric.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [日本語: docs/evaluation-rubric_ja.md](docs/evaluation-rubric_ja.md)
+- [日本語: CONTRIBUTING_ja.md](CONTRIBUTING_ja.md)
 
 ---
 
@@ -170,11 +191,15 @@ Artificial-Wisdom-Guardrail-Protocol/
 |
 |-- README.md
 |-- README_ja.md
+|-- CONTRIBUTING.md
+|-- CONTRIBUTING_ja.md
 |-- LICENSE
 |
 |-- docs/
 |   |-- artificial-wisdom-guardrail.md
 |   |-- artificial-wisdom-guardrail_ja.md
+|   |-- evaluation-rubric.md
+|   |-- evaluation-rubric_ja.md
 |   |-- natural-law-alignment-checklist.md
 |   |-- natural-law-alignment-checklist_ja.md
 |   |-- ai-code-agent-rules.md
