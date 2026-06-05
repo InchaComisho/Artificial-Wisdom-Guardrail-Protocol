@@ -184,6 +184,16 @@ Join the public testing and improvement discussion here:
 
 ---
 
+## Language and AI Translation
+
+The author is a Japanese conceptualizer and primarily works in Japanese.
+All discussions, issue reports, and feedback may be translated and summarized by AI/LLMs for the author.
+
+Please feel free to participate in English, Japanese, or any language.
+AI translation may be used as a bridge between contributors and the author.
+
+---
+
 ## Repository Structure
 
 ```text

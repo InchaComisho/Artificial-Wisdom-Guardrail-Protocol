@@ -17,6 +17,13 @@ Contributors should not weaken the Artificial Wisdom Guardrail, remove safeguard
 
 ---
 
+## Languages and Translation
+
+Contributors may write issues, discussions, feedback, and proposals in English, Japanese, or any language.
+AI/LLM translation and summarization may be used to help bridge contributors and the author.
+
+---
+
 ## How to Report Tests
 
 When testing an AI system or code agent:
@@ -60,4 +67,3 @@ When adding high-risk examples:
 - include misuse resistance, rollback, audit, and human review considerations
 
 Do not add examples that make harmful, deceptive, coercive, illegal, or irreversible actions easier to perform.
-
