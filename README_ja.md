@@ -153,6 +153,14 @@ AIコードエージェントは、単に次を問うだけでは不十分です
 
 ---
 
+## 公開Discussion
+
+人工叡智ガードレール・プロトコルの公開テストと改善議論はこちらです。
+
+[Welcome: Testing the Artificial Wisdom Guardrail Protocol](https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol/discussions/1)
+
+---
+
 ## このプロトコルが主張しないこと
 
 このプロトコルは、次のものではありません。
