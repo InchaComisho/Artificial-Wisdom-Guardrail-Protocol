@@ -5,7 +5,7 @@ Python simulations implementing the evaluation frameworks from `docs/`.
 ## Requirements
 
 ```bash
-pip install numpy matplotlib scipy
+pip install numpy matplotlib
 ```
 
 ## Simulations
@@ -69,6 +69,40 @@ python simulation/six_principles_stability_model.py
 | 和 (Wa) | Meta-integrating principle |
 
 **Output:** `six_principles_stability_timeseries.png`, `six_principles_trajectories.png`, `six_principles_final_radar.png`
+
+#### Model Limitation / モデル上の注意
+
+The Six Principles stability model is an illustrative conceptual model, not a validated prediction model.
+
+In the current implementation, **Wa / Harmony** is modeled as a restorative coupling factor that can lift other principles over time. Therefore, even severe degradation scenarios may eventually recover in the simulation.
+
+This should not be interpreted as a real-world guarantee that civilization will recover automatically. It means only that, under this model's assumptions, remaining alignment with one or more principles can create a pathway toward recovery.
+
+六つの理・文明安定性モデルは、予測モデルではなく概念説明モデルです。
+
+現在の実装では、**和 / Harmony** が他の原則を引き上げる回復結合として設計されているため、崩壊シナリオでも最終的に回復へ向かう場合があります。
+
+これは、現実世界で文明が自動的に回復するという意味ではありません。このモデルの仮定のもとでは、いずれかの原則が残っている場合、回復経路が生まれうることを示しているに過ぎません。
+
+#### Future Improvement: Negative-Control Scenarios / 今後の改善：ネガティブコントロール
+
+A future version should add negative-control scenarios where:
+
+- Wa / Harmony no longer functions as a restorative coupling factor
+- Providence, Circulation, Structure, Order, and Harmony are all severely degraded
+- external shocks continue instead of stopping
+- recovery does not occur unless a restoration intervention is introduced
+
+This would make the model more balanced by showing both recovery conditions and non-recovery conditions.
+
+今後の版では、次のようなネガティブコントロール・シナリオを追加すると、モデルの説得力が高まります。
+
+- 和 / Harmony が回復結合として機能しない
+- 摂理、循環、構造、秩序、和がすべて深刻に劣化している
+- 外部ショックが停止せず継続する
+- 修復介入がない限り回復しない
+
+これにより、回復条件だけでなく、回復不能条件も示せるようになります。
 
 ---
 
