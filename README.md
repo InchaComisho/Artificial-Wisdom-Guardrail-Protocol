@@ -19,7 +19,7 @@
 **Artificial Wisdom Guardrail Protocol** is a public framework for applying Artificial Wisdom as a higher-order guardrail for AI agents, code generation, automation, decision-support systems, and long-term civilization-safe design.
 
 The purpose is not to reduce intelligence.  
-The purpose is to align intelligence with long-term stability, ecological continuity, human dignity, transparency, reversibility, and natural-law alignment.
+The purpose is to align intelligence with long-term stability, ecological continuity, human dignity, transparency, reversibility, accountability, regenerative outcomes, and natural-law alignment.
 
 > AI should not optimize efficiency, scale, speed, profit, or capability at the expense of the conditions that make civilization, life, and future intelligence possible.
 
@@ -28,11 +28,12 @@ The purpose is to align intelligence with long-term stability, ecological contin
 ## Short Description
 
 Artificial Intelligence can increase capability.  
-Artificial Wisdom is the principle that capability must be governed by long-term stability, natural-law alignment, responsibility, restraint, and regenerative outcomes.
+Artificial Wisdom is the principle that capability must be governed by long-term stability, natural-law alignment, responsibility, restraint, regenerative outcomes, and the **Six Principles**.
 
 This repository provides:
 
 - a reusable Artificial Wisdom guardrail prompt
+- Six Principles / 六つの理 as AI evaluation axes
 - rules for AI coding agents such as Codex, Claude Code, Copilot, Gemini, and other code assistants
 - natural-law alignment checklists
 - risk evaluation criteria
@@ -75,10 +76,37 @@ This protocol treats Artificial Wisdom as a design layer above capability optimi
 
 ---
 
+## The Six Principles / 六つの理
+
+The Artificial Wisdom Guardrail uses the **Six Principles** as a high-level evaluation axis for AI output, automation, code changes, and decision support.
+
+These principles are not religious commands. They are conceptual evaluation criteria for checking whether an AI-assisted action preserves the conditions required for stable civilization, ecological continuity, human dignity, and long-term system survivability.
+
+1. **Natural Law / 摂理**  
+   Does the action respect the fundamental conditions of nature, matter, energy, life, society, and system limits?
+
+2. **Harmony / 調和**  
+   Does it preserve balanced relationships among humans, society, nature, and technology, without unnecessary conflict or imbalance?
+
+3. **Circulation / 循環**  
+   Does it preserve sustainable flows of resources, information, responsibility, energy, and life, rather than cutting them off or externalizing harm?
+
+4. **Structure / 構造**  
+   Is it a stable, reproducible, maintainable structure rather than a short-term patch that increases fragility?
+
+5. **Order / 秩序**  
+   Does it preserve traceability, responsibility, human oversight, reversibility, and auditability, rather than creating ungoverned or irreversible disorder?
+
+6. **Wa / 和**  
+   Does it support human dignity, coexistence, mutual understanding, future generations, and the integrity of the whole system?
+
+---
+
 ## Definition
 
 **Artificial Wisdom (AW)** is the capacity of an AI system or AI-assisted process to evaluate actions not only by immediate task success, but also by their effects on:
 
+- the Six Principles
 - long-term stability
 - ecological continuity
 - human dignity
@@ -100,7 +128,7 @@ It is a higher-order evaluation framework that connects them to civilization-sca
 ```text
 Artificial Wisdom Guardrail
 
-This project must not optimize intelligence, efficiency, automation, scale, profit, or speed at the expense of long-term civilizational stability, ecological continuity, human dignity, transparency, reversibility, accountability, and natural-law alignment.
+This project must not optimize intelligence, efficiency, automation, scale, profit, or speed at the expense of long-term civilizational stability, ecological continuity, human dignity, transparency, reversibility, accountability, the Six Principles, and natural-law alignment.
 
 Every AI-generated output, code change, automation, recommendation, or optimization must be evaluated not only by whether it works, but also by whether it preserves or improves the conditions that make life, civilization, and future intelligence possible.
 ```
@@ -112,10 +140,33 @@ Every AI-generated output, code change, automation, recommendation, or optimizat
 You can paste the guardrail into an AI coding agent or chatbot before a task:
 
 ```text
-Before performing this task, apply the Artificial Wisdom Guardrail.
-Do not optimize only for speed, capability, automation, or short-term success.
-Evaluate the result using long-term stability, human oversight, reversibility, transparency, ecological compatibility, and misuse resistance.
-If a requested change increases systemic risk, explain the risk and propose a safer alternative.
+Apply the Artificial Wisdom Guardrail before performing this task.
+
+Do not optimize only for speed, scale, automation, profit, capability, or immediate task success.
+
+Evaluate the output, proposal, code change, or automation through the following Six Principles:
+
+1. Natural Law
+Does it respect the fundamental conditions of nature, matter, energy, life, society, and system limits?
+
+2. Harmony
+Does it preserve balanced relationships among humans, society, nature, and technology, without creating unnecessary conflict or imbalance?
+
+3. Circulation
+Does it preserve sustainable flows of resources, information, responsibility, energy, and life, rather than cutting them off or externalizing harm?
+
+4. Structure
+Is it a stable, reproducible, maintainable structure rather than a short-term patch that increases fragility?
+
+5. Order
+Does it preserve traceability, responsibility, human oversight, reversibility, and auditability, rather than creating ungoverned or irreversible disorder?
+
+6. Wa
+Does it support human dignity, coexistence, mutual understanding, future generations, and the integrity of the whole system?
+
+Also evaluate the result using long-term stability, human oversight, transparency, reversibility, accountability, ecological compatibility, natural-law alignment, misuse resistance, and regenerative potential.
+
+If the requested action increases systemic risk, explain the risk and propose a safer alternative.
 ```
 
 ---
@@ -124,17 +175,41 @@ If a requested change increases systemic risk, explain the risk and propose a sa
 
 A response, code change, or automation should be checked against the following questions:
 
-| Criterion | Question |
-|---|---|
-| Long-term stability | Does this improve stability beyond the immediate task? |
-| Natural-law alignment | Does this respect ecological, material, energetic, and systemic limits? |
-| Human dignity | Does this avoid dehumanization, coercion, or unnecessary harm? |
-| Transparency | Can humans understand what changed and why? |
-| Reversibility | Can the change be rolled back or safely stopped? |
-| Accountability | Is responsibility traceable? |
-| Misuse resistance | Could this be easily used for harm, deception, or coercion? |
-| Resilience | Does this reduce fragility under stress? |
-| Regeneration | Does this support repair, restoration, or circularity? |
+- **Natural Law / 摂理**  
+  Does this respect the fundamental conditions of nature, matter, energy, life, society, and system limits?
+
+- **Harmony / 調和**  
+  Does this preserve balanced relationships among humans, society, nature, and technology?
+
+- **Circulation / 循環**  
+  Does this preserve sustainable flows of resources, information, responsibility, energy, and life?
+
+- **Structure / 構造**  
+  Is this stable, reproducible, maintainable, and not merely a short-term patch?
+
+- **Order / 秩序**  
+  Does this preserve traceability, responsibility, human oversight, reversibility, and auditability?
+
+- **Wa / 和**  
+  Does this support human dignity, coexistence, mutual understanding, future generations, and the integrity of the whole system?
+
+- **Long-term stability**  
+  Does this improve stability beyond the immediate task?
+
+- **Transparency**  
+  Can humans understand what changed and why?
+
+- **Reversibility**  
+  Can the change be rolled back or safely stopped?
+
+- **Accountability**  
+  Is responsibility traceable?
+
+- **Misuse resistance**  
+  Could this be easily used for harm, deception, or coercion?
+
+- **Regeneration**  
+  Does this support repair, restoration, or circularity?
 
 ---
 
@@ -156,6 +231,7 @@ Does it automate irreversible action?
 Does it increase dependency, opacity, or fragility?
 Could it be misused?
 Is there a safer implementation?
+Does it violate the Six Principles?
 ```
 
 See:
@@ -182,6 +258,7 @@ Suggested public testing categories:
 - ecological or infrastructure risk blind spots
 - short-term profit versus long-term survivability
 - refusal quality and safer alternatives
+- Six Principles operationalization
 
 For repeatable evaluation and contribution review, see:
 
@@ -200,7 +277,7 @@ Please see:
 
 - [docs/public-review-request.md](docs/public-review-request.md)
 
-Suggested review targets include vague wording, incomplete risk dimensions, gameable scoring, weak evaluation criteria, failure cases in real AI-agent workflows, and better operational definitions.
+Suggested review targets include vague wording, incomplete risk dimensions, gameable scoring, weak evaluation criteria, failure cases in real AI-agent workflows, Six Principles operationalization, and better operational definitions.
 
 ---
 
@@ -291,6 +368,7 @@ If GitHub Discussions is enabled, suggested categories are:
 - Failure Cases
 - Prompt Improvements
 - Code Agent Tests
+- Six Principles Tests
 - Translations
 
 ---
@@ -317,8 +395,8 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## Keywords
 
-Artificial Wisdom, AI guardrail, AI safety, AI alignment, AI governance, AI coding agent, code agent safety, natural law alignment, civilization stability, long-term safety, ecological continuity, human oversight, reversible automation, transparency, misuse resistance, regenerative civilization
+Artificial Wisdom, AI guardrail, AI safety, AI alignment, AI governance, AI coding agent, code agent safety, Six Principles, Natural Law, Harmony, Circulation, Structure, Order, Wa, natural law alignment, civilization stability, long-term safety, ecological continuity, human oversight, reversible automation, transparency, misuse resistance, regenerative civilization
 
 ## Hashtags
 
-#ArtificialWisdom #AIGuardrail #AISafety #AIAlignment #AIGovernance #CodeAgentSafety #NaturalLawAlignment #CivilizationStability #HumanOversight #RegenerativeCivilization
+#ArtificialWisdom #AIGuardrail #AISafety #AIAlignment #AIGovernance #CodeAgentSafety #SixPrinciples #NaturalLaw #Harmony #Circulation #Structure #Order #Wa #NaturalLawAlignment #CivilizationStability #HumanOversight #RegenerativeCivilization
