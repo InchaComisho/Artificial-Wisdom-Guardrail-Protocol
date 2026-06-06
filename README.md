@@ -42,6 +42,8 @@ This repository provides:
 
 Quick links:
 
+- [Public review request](docs/public-review-request.md)
+- [Citation metadata](CITATION.cff)
 - [Guardrail prompt](examples/guardrail-prompt.md)
 - [AI code agent rules](docs/ai-code-agent-rules.md)
 - [Risk evaluation framework](docs/risk-evaluation-framework.md)
@@ -190,6 +192,18 @@ For repeatable evaluation and contribution review, see:
 
 ---
 
+## Public Review Request
+
+This project is open for technical criticism, failure-case testing, and adversarial review.
+
+Please see:
+
+- [docs/public-review-request.md](docs/public-review-request.md)
+
+Suggested review targets include vague wording, incomplete risk dimensions, gameable scoring, weak evaluation criteria, failure cases in real AI-agent workflows, and better operational definitions.
+
+---
+
 ## Public Discussion
 
 Join the public testing and improvement discussion here:
@@ -217,11 +231,13 @@ Artificial-Wisdom-Guardrail-Protocol/
 |-- README_ja.md
 |-- CONTRIBUTING.md
 |-- CONTRIBUTING_ja.md
+|-- CITATION.cff
 |-- LICENSE
 |
 |-- docs/
 |   |-- artificial-wisdom-guardrail.md
 |   |-- artificial-wisdom-guardrail_ja.md
+|   |-- public-review-request.md
 |   |-- evaluation-rubric.md
 |   |-- evaluation-rubric_ja.md
 |   |-- natural-law-alignment-checklist.md
