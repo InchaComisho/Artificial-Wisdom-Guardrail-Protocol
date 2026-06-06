@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Artificial Wisdom Guardrail Protocol"
+message: "If you use or discuss this framework, please cite this repository."
+type: software
+authors:
+  - name: "Master"
+    alias: "InchaComisho / inchacomusho"
+abstract: >-
+  Artificial Wisdom Guardrail Protocol is an open framework for evaluating
+  AI-agent outputs and automation decisions not only by capability, speed,
+  or task completion, but also by long-term stability, transparency,
+  reversibility, human oversight, accountability, misuse resistance,
+  ecological continuity, and civilizational resilience.
+keywords:
+  - Artificial Wisdom
+  - AI guardrail
+  - AI safety
+  - AI alignment
+  - AI governance
+  - AI coding agent
+  - code agent safety
+  - long-term safety
+  - transparency
+  - reversibility
+  - human oversight
+  - misuse resistance
+  - civilizational resilience
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol"
+url: "https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol"
+date-released: "2026-06-06"
