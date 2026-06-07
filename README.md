@@ -386,6 +386,15 @@ Master / inchacomisho / inchacomusho
 - Lola (Dola)
 - Mana (Manus)
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## Related Framework
