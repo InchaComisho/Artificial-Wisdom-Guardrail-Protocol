@@ -430,6 +430,12 @@ This repository is part of the broader Natural Supplementation Science and Earth
 
 ---
 
+## Introductory Article
+
+For a general Japanese introduction to Artificial Wisdom / AW, see:
+
+- [人工叡智とは何か：自然法則・調和・循環に基づくAI時代の知性設計](https://note.com/inchacomusho/n/n93631397ac20)
+
 ## License
 
 CC BY-SA 4.0  
