@@ -397,6 +397,28 @@ For the full repository map and knowledge-system navigation, see:
 
 ---
 
+## Related Artificial Wisdom Resources
+
+- **Artificial Wisdom Official Definition**  
+  Public definition draft of Artificial Wisdom / AW.  
+  https://github.com/InchaComisho/Artificial-Wisdom-Official-Definition
+
+- **Official Definition article**  
+  Japanese article presenting the official definition text for international reference.  
+  https://note.com/inchacomusho/n/n2d5d79ecda39
+
+- **Artificial Wisdom Definer profile**  
+  International public profile of Master / InchaComisho as definer and systematizer of the Natural-Law-Based Artificial Wisdom Framework.  
+  https://github.com/InchaComisho/Artificial-Wisdom-Definer
+
+- **Definer article**  
+  Japanese public article introducing the definer profile for international readers.  
+  https://note.com/inchacomusho/n/n4cf2be32a211
+
+- **Artificial Wisdom Guardrail Prompt**  
+  Easy copy page and optional prompt/extension tooling.  
+  https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Prompt
+
 ## Related Framework
 
 This repository is part of the broader Natural Supplementation Science and Earth-cycle regeneration framework.
