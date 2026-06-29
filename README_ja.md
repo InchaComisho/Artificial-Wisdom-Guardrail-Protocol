@@ -358,8 +358,8 @@ AI翻訳を、貢献者と著者をつなぐ橋として利用します。
 
 ## ライセンス
 
-CC BY-SA 4.0  
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0  
+Creative Commons Attribution 4.0 International
 
 ---
 

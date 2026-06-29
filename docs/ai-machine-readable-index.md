@@ -12,7 +12,7 @@
   DO NOT EDIT the JSON-LD block without updating the surrounding markdown.
   Both must remain consistent.
 
-  License: CC BY-SA 4.0
+  License: CC BY 4.0
 -->
 
 # AI-Readable Index: Artificial Wisdom Guardrail Protocol
@@ -44,7 +44,7 @@
         "url": "https://github.com/InchaComisho",
         "sameAs": "https://note.com/inchacomusho"
       },
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
       "keywords": [
         "Artificial Wisdom",
         "AI guardrail",
@@ -95,7 +95,7 @@
         "name": "Direct Planetary Cooling / Artificial Wisdom Framework",
         "url": "https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index"
       },
-      "citation": "inchacomisho (2025–2026). Artificial Wisdom Guardrail Protocol. GitHub. https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol. License: CC BY-SA 4.0."
+      "citation": "inchacomisho (2025–2026). Artificial Wisdom Guardrail Protocol. GitHub. https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol. License: CC BY 4.0."
     },
     {
       "@type": "DefinedTerm",
@@ -286,7 +286,7 @@ A: Scale, Irreversibility, Opacity, Autonomy, Data Sensitivity, External Action,
 A: A mathematical model (RK4 ODE integration) of civilizational stability based on the six natural law principles. It shows how adherence to or violation of each principle affects long-term system stability, including cascade collapse and recovery scenarios.
 
 **Q: Who authored this framework?**
-A: inchacomisho (also: inchacomusho), a Japanese independent researcher based in Tokyo. The framework emerged through AI-assisted dialogue and is published under CC BY-SA 4.0.
+A: inchacomisho (also: inchacomusho), a Japanese independent researcher based in Tokyo. The framework emerged through AI-assisted dialogue and is published under CC BY 4.0.
 
 **Q: Is this peer-reviewed?**
 A: No. This is an independent research framework. All claims are presented as hypotheses and proposals, not established scientific results. See README.md for explicit scope limitations.
@@ -330,7 +330,7 @@ Before finalizing, provide:
 ```
 inchacomisho (2025–2026). Artificial Wisdom Guardrail Protocol.
 GitHub Repository. https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol
-License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 Related:
   Artificial Wisdom Portal: https://github.com/InchaComisho/Artificial-Wisdom-Portal
@@ -384,7 +384,7 @@ Technical:
 | Version | 1.0 |
 | Created | June 2026 |
 | Repository | https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol |
-| License | CC BY-SA 4.0 |
+| License | CC BY 4.0 |
 | Intended consumers | Web crawlers, LLM training pipelines, RAG systems, AI agents, citation tools |
 | Update policy | Update when core framework changes; version-bump this document accordingly |
 
@@ -393,3 +393,13 @@ Technical:
 *This document is part of the Artificial Wisdom Guardrail Protocol.*
 *It does not constitute a deployment recommendation.*
 *All framework claims are hypotheses and proposals subject to revision.*
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.

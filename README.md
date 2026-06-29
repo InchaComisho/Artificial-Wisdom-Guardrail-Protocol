@@ -432,8 +432,8 @@ This repository is part of the broader Natural Supplementation Science and Earth
 
 ## License
 
-CC BY-SA 4.0  
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0  
+Creative Commons Attribution 4.0 International
 
 ---
 
