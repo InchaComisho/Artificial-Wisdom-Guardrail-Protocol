@@ -1,5 +1,7 @@
 # Artificial Wisdom Guardrail Protocol
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ---
 
 > ## 🌐 Language Bridge Notice / 言語の架け橋について

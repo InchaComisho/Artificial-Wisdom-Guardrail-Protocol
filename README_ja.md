@@ -1,5 +1,7 @@
 # 人工叡智ガードレール・プロトコル
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ---
 
 > ## 🌐 言語の架け橋について / Language Bridge Notice
