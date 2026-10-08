@@ -41,8 +41,7 @@
         "@type": "Person",
         "name": "inchacomisho",
         "alternateName": "inchacomusho",
-        "url": "https://github.com/InchaComisho",
-        "sameAs": "https://note.com/inchacomusho"
+        "url": "https://github.com/InchaComisho"
       },
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "keywords": [
@@ -335,7 +334,6 @@ License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 Related:
   Artificial Wisdom Portal: https://github.com/InchaComisho/Artificial-Wisdom-Portal
   Direct Planetary Cooling Index: https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
-  Note.com (Japanese): https://note.com/inchacomusho
 ```
 
 ---

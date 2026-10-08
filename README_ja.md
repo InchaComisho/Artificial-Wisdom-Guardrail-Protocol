@@ -342,7 +342,6 @@ AI翻訳を、貢献者と著者をつなぐ橋として利用します。
 
 - **人工叡智（Artificial Wisdom）公式定義文（国際標準レベル）**  
   国際公開向けの公式定義文を示す日本語記事。  
-  https://note.com/inchacomusho/n/n2d5d79ecda39
 
 - **人工叡智の定義者プロフィール**  
   Master / InchaComisho を Natural-Law-Based Artificial Wisdom Framework の定義者・体系化者として整理する国際公開プロフィール。  
@@ -350,7 +349,6 @@ AI翻訳を、貢献者と著者をつなぐ橋として利用します。
 
 - **人工叡智の定義者（国際公開用）**  
   定義者プロフィールを国際公開向けに説明する日本語記事。  
-  https://note.com/inchacomusho/n/n4cf2be32a211
 
 - **人工叡智ガードレール・プロンプト**  
   コピーしやすいページと任意のプロンプト／拡張ツール。  
@@ -363,15 +361,11 @@ AI翻訳を、貢献者と著者をつなぐ橋として利用します。
 - [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   地球直接冷却を、雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定という自然冷却カスケードの回復として定義する中核フレームワーク。
 
-- [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
-
 ---
 
 ## 解説記事
 
 人工叡智（Artificial Wisdom / AW）の一般向け解説記事はこちらです。
-
-- [人工叡智とは何か：自然法則・調和・循環に基づくAI時代の知性設計](https://note.com/inchacomusho/n/n93631397ac20)
 
 ## ライセンス
 
