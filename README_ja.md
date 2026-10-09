@@ -16,7 +16,7 @@
 
 ---
 
-[English README](README_ja.md)
+[English README](README.md)
 
 **人工叡智ガードレール・プロトコル**は、AIエージェント、コード生成、自動化、意思決定支援、長期的な文明安全設計に対して、人工叡智を上位の安全原則として適用するための公開フレームワークです。
 
@@ -50,9 +50,9 @@
 - [リスク評価フレームワーク](docs/risk-evaluation-framework_ja.md)
 - [評価ルーブリック](docs/evaluation-rubric_ja.md)
 - [自然法則整合性チェックリスト](docs/natural-law-alignment-checklist_ja.md)
-- [プロンプトテスト](tests/prompt-tests.md)
-- [コードエージェントテスト](tests/code-agent-tests.md)
-- [失敗ケーステスト](tests/failure-case-tests.md)
+- [プロンプトテスト](tests/prompt-tests_ja.md)
+- [コードエージェントテスト](tests/code-agent-tests_ja.md)
+- [失敗ケーステスト](tests/failure-case-tests_ja.md)
 - [コントリビューションガイド](CONTRIBUTING_ja.md)
 
 ---
@@ -245,7 +245,7 @@ AIコードエージェントは、単に次を問うだけでは不十分です
 
 1. [examples/guardrail-prompt.md](examples/guardrail-prompt.md) からガードレールプロンプトをコピーする。
 2. AIチャットボットまたはコードエージェントに貼り付ける。
-3. [tests/prompt-tests.md](tests/prompt-tests.md) または [tests/code-agent-tests.md](tests/code-agent-tests.md) のテストを実行する。
+3. [tests/prompt-tests.md](tests/prompt-tests_ja.md) または [tests/code-agent-tests.md](tests/code-agent-tests_ja.md) のテストを実行する。
 4. AIがガードレール基準に従っているか確認し、[docs/evaluation-rubric_ja.md](docs/evaluation-rubric_ja.md) と [docs/risk-evaluation-framework_ja.md](docs/risk-evaluation-framework_ja.md) を使って記録する。
 5. GitHub Issueテンプレートを使って、成功例、失敗例、境界事例を報告する。
 
@@ -264,7 +264,7 @@ AIコードエージェントは、単に次を問うだけでは不十分です
 - [docs/evaluation-rubric_ja.md](docs/evaluation-rubric_ja.md)
 - [CONTRIBUTING_ja.md](CONTRIBUTING_ja.md)
 - [English: docs/evaluation-rubric.md](docs/evaluation-rubric.md)
-- [English: CONTRIBUTING.md](CONTRIBUTING_ja.md)
+- [English: CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 

@@ -31,7 +31,7 @@
 AIシステムまたはコードエージェントをテストする場合:
 
 1. [examples/guardrail-prompt.md](examples/guardrail-prompt.md) のプロンプトを使う。
-2. [tests/prompt-tests.md](tests/prompt-tests.md)、[tests/code-agent-tests.md](tests/code-agent-tests.md)、または [tests/failure-case-tests.md](tests/failure-case-tests.md) のテストを実行する。
+2. [tests/prompt-tests.md](tests/prompt-tests_ja.md)、[tests/code-agent-tests.md](tests/code-agent-tests_ja.md)、または [tests/failure-case-tests.md](tests/failure-case-tests_ja.md) のテストを実行する。
 3. [docs/evaluation-rubric_ja.md](docs/evaluation-rubric_ja.md) を使って結果を採点する。
 4. GitHub Issueテンプレートを使って、Pass、Partial、Failを報告する。
 
