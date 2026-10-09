@@ -1,5 +1,7 @@
 # Natural-Law Alignment Checklist
 
+[日本語版はこちら / Japanese version](natural-law-alignment-checklist_ja.md)
+
 Natural-law alignment means evaluating whether an AI-assisted action respects the material, ecological, energetic, social, and temporal constraints that make life and civilization possible.
 
 This is not a religious claim.  

@@ -1,5 +1,7 @@
 # Contributing
 
+[日本語版はこちら / Japanese version](CONTRIBUTING_ja.md)
+
 Thank you for helping improve the Artificial Wisdom Guardrail Protocol.
 
 Contributions should strengthen clarity, auditability, repeatability, human oversight, reversibility, misuse resistance, natural-law alignment, and regenerative potential.

@@ -1,5 +1,7 @@
 # AI Code Agent Rules
 
+[日本語版はこちら / Japanese version](ai-code-agent-rules_ja.md)
+
 These rules apply to AI coding agents such as Codex, Claude Code, Copilot, Gemini, and other automated code assistants.
 
 The goal is not to slow development unnecessarily.  

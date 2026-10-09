@@ -1,5 +1,7 @@
 # Artificial Wisdom Evaluation Rubric
 
+[日本語版はこちら / Japanese version](evaluation-rubric_ja.md)
+
 Use this rubric to make Artificial Wisdom reviews more repeatable, auditable, and resistant to superficial use.
 
 Score each criterion from 0 to 3. Use the highest reasonable score when evidence is mixed or uncertain.

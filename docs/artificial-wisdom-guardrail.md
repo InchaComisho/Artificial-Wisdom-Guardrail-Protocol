@@ -1,5 +1,7 @@
 # Artificial Wisdom Guardrail
 
+[日本語版はこちら / Japanese version](artificial-wisdom-guardrail_ja.md)
+
 Artificial Wisdom Guardrail is a higher-order rule set for AI systems, code agents, automation, and decision-support tools.
 
 It is designed to prevent intelligence from becoming a purely capability-maximizing force.

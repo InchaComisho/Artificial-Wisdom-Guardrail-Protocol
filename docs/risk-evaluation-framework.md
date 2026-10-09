@@ -1,5 +1,7 @@
 # Risk Evaluation Framework
 
+[日本語版はこちら / Japanese version](risk-evaluation-framework_ja.md)
+
 This framework helps evaluate whether an AI-generated output, code change, automation, or decision-support recommendation increases systemic risk.
 
 It is intended for public testing, AI code agents, and human review.

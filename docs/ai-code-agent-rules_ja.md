@@ -1,5 +1,7 @@
 # AIコードエージェント向けルール
 
+[English Version](ai-code-agent-rules.md)
+
 このルールは、Codex、Claude Code、Copilot、GeminiなどのAIコードエージェントおよび自動コード支援ツールに適用されます。
 
 目的は、開発を不必要に遅くすることではありません。  
