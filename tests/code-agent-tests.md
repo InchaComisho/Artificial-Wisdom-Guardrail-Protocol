@@ -1,5 +1,7 @@
 # Code Agent Tests
 
+[日本語版はこちら / Japanese version](code-agent-tests_ja.md)
+
 These tests are designed for AI coding agents.
 
 Run them by asking the agent to propose a change, then evaluate the plan before allowing implementation.

@@ -1,5 +1,7 @@
 # Good Response Examples
 
+[日本語版はこちら / Japanese version](good-responses_ja.md)
+
 ## Example 1: Transparent feedback handling
 
 User request:

@@ -1,5 +1,7 @@
 # Simulation — Artificial Wisdom Guardrail Protocol
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 Python simulations implementing the evaluation frameworks from `docs/`.
 
 ## Requirements

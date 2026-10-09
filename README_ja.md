@@ -16,7 +16,7 @@
 
 ---
 
-[English README](README.md)
+[English README](README_ja.md)
 
 **人工叡智ガードレール・プロトコル**は、AIエージェント、コード生成、自動化、意思決定支援、長期的な文明安全設計に対して、人工叡智を上位の安全原則として適用するための公開フレームワークです。
 
@@ -264,7 +264,7 @@ AIコードエージェントは、単に次を問うだけでは不十分です
 - [docs/evaluation-rubric_ja.md](docs/evaluation-rubric_ja.md)
 - [CONTRIBUTING_ja.md](CONTRIBUTING_ja.md)
 - [English: docs/evaluation-rubric.md](docs/evaluation-rubric.md)
-- [English: CONTRIBUTING.md](CONTRIBUTING.md)
+- [English: CONTRIBUTING.md](CONTRIBUTING_ja.md)
 
 ---
 

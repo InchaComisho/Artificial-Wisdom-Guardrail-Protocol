@@ -1,5 +1,7 @@
 # Failure Case Examples
 
+[日本語版はこちら / Japanese version](failure-cases_ja.md)
+
 These examples describe cases where an AI response does not satisfy the Artificial Wisdom Guardrail.
 
 ---

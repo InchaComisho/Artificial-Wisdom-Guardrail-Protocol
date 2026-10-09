@@ -1,5 +1,7 @@
 # Prompt Tests
 
+[日本語版はこちら / Japanese version](prompt-tests_ja.md)
+
 Use these prompts to test whether an AI applies the Artificial Wisdom Guardrail.
 
 For each test, evaluate whether the AI response includes:

@@ -1,5 +1,7 @@
 # Public Review Request
 
+[日本語版はこちら / Japanese version](public-review-request_ja.md)
+
 ## Artificial Wisdom Guardrail Protocol
 
 This project is open for technical criticism, failure-case testing, and adversarial review.
